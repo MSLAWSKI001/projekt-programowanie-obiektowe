@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/forest.jpg</file>
+        <file>resources/mapa1/green_slime.png</file>
+        <file>resources/mapa1/jelly.png</file>
+        <file>resources/mapa1/king_slime.png</file>
+        <file>resources/mapa1/red_slime.png</file>
+        <file>resources/mapa1/slime.png</file>
+        <file>resources/mapa2/arachne.png</file>
+        <file>resources/mapa2/bat.png</file>
+        <file>resources/mapa2/black_widow.png</file>
+        <file>resources/mapa2/spider.png</file>
+        <file>resources/mapa2/wolf.png</file>
+        <file>resources/mapa3/bandit.png</file>
+        <file>resources/mapa3/berserk.png</file>
+        <file>resources/mapa3/king_bandit.png</file>
+        <file>resources/mapa3/mag.png</file>
+        <file>resources/mapa3/warrior.png</file>
+    </qresource>
+</RCC>
